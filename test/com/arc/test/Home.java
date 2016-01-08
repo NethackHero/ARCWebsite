@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
  *
- * @author jiebing
+ * @author Tony
  */
 public class Home {
     private WebDriver createWebDriver(){
