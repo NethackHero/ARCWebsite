@@ -8,13 +8,13 @@ This is for the nine challenge where I have to filter a JSON POST request, and r
 4. Make a JSON POST request to test it (refer to functional testing below)
 
 ####How to test
-I've used Mocha and Chai for unit testing. 
+#####I've used Mocha and Chai for unit testing. 
 1. Install Mocha
 2. Run "mocha" in tony-nine file in terminal
 3. You will see the passes and fails of several unit tests
 3. You may edit and add tests in the test file
 
-Postman for functional testing.
+#####Postman for functional testing.
 1. Install Postman'
 2. Select POST method
 3. Enter the root url of the service
