@@ -1,13 +1,13 @@
 # Welcome to tony-nine service
 This is for the nine challenge where I have to filter a JSON POST request, and return a filtered down JSON as per specifications.
 
-**How to use
+####How to use
 1. Deploy
 2. Run "node startserver.js" in terminal
 3. The server should be up and running
 4. Make a JSON POST request to test it (refer to functional testing below)
 
-**How to test
+####How to test
 I've used Mocha and Chai for unit testing. 
 1. Install Mocha
 2. Run "mocha" in tony-nine file in terminal
